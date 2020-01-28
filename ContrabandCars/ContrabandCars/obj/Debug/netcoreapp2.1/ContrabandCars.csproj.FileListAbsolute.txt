@@ -1,0 +1,11 @@
+C:\Users\melker.linde\Documents\GitHub\EPROVDEL2\ContrabandCars\ContrabandCars\bin\Debug\netcoreapp2.1\ContrabandCars.deps.json
+C:\Users\melker.linde\Documents\GitHub\EPROVDEL2\ContrabandCars\ContrabandCars\bin\Debug\netcoreapp2.1\ContrabandCars.runtimeconfig.json
+C:\Users\melker.linde\Documents\GitHub\EPROVDEL2\ContrabandCars\ContrabandCars\bin\Debug\netcoreapp2.1\ContrabandCars.runtimeconfig.dev.json
+C:\Users\melker.linde\Documents\GitHub\EPROVDEL2\ContrabandCars\ContrabandCars\bin\Debug\netcoreapp2.1\ContrabandCars.dll
+C:\Users\melker.linde\Documents\GitHub\EPROVDEL2\ContrabandCars\ContrabandCars\bin\Debug\netcoreapp2.1\ContrabandCars.pdb
+C:\Users\melker.linde\Documents\GitHub\EPROVDEL2\ContrabandCars\ContrabandCars\obj\Debug\netcoreapp2.1\ContrabandCars.csprojAssemblyReference.cache
+C:\Users\melker.linde\Documents\GitHub\EPROVDEL2\ContrabandCars\ContrabandCars\obj\Debug\netcoreapp2.1\ContrabandCars.csproj.CoreCompileInputs.cache
+C:\Users\melker.linde\Documents\GitHub\EPROVDEL2\ContrabandCars\ContrabandCars\obj\Debug\netcoreapp2.1\ContrabandCars.AssemblyInfoInputs.cache
+C:\Users\melker.linde\Documents\GitHub\EPROVDEL2\ContrabandCars\ContrabandCars\obj\Debug\netcoreapp2.1\ContrabandCars.AssemblyInfo.cs
+C:\Users\melker.linde\Documents\GitHub\EPROVDEL2\ContrabandCars\ContrabandCars\obj\Debug\netcoreapp2.1\ContrabandCars.dll
+C:\Users\melker.linde\Documents\GitHub\EPROVDEL2\ContrabandCars\ContrabandCars\obj\Debug\netcoreapp2.1\ContrabandCars.pdb
